@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.github.plexpt</groupId>
+    <artifactId>chatgpt</artifactId>
+    <version>1.2.0</version>
+</dependency>
